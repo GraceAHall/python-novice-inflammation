@@ -1,0 +1,20 @@
+3 hours duration 
+lessons 1-4 
+
+Required software 
+ - Git 
+ - Python3.x (3.10 used)
+ - VSC or nano
+
+VSC
+ - panels
+ - sidebar items
+ - Git
+
+Download files 
+ - manual download and unzip, or:
+ - wget https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip
+ - wget https://swcarpentry.github.io/python-novice-inflammation/files/code/python-novice-inflammation-code.zip
+ - unzip python-novice-inflammation-data.zip
+ - unzip python-novice-inflammation-code.zip
+
